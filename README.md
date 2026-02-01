@@ -1,1 +1,3 @@
-# aragil_bg_music_app_be
+## Description
+
+A sleep tracker that plays background music, analyzes sleep patterns per track, and provides personalized sound recommendations.
